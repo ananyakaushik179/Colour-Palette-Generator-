@@ -1,2 +1,2 @@
-# Colour-Palette-Generator-
+# Colour-Palette-Generator
 Generates set of random colours. 
